@@ -1,11 +1,46 @@
+/*Portfolio*/
+.p1:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p2:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p3:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p4:hover{
+    -webkit-transform: rotateZ(-30deg);
+    -ms-transform: rotateZ(-30deg);
+    transform: rotateZ(-30deg);
+}
+.p5:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p6:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.aboutpic:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
 
+/*Footer*/
 .footer-flex{
     display:flex; 
     flex-direction: row;
     justify-content: space-between;
 }
-
 .footer-item-flex{
     flex: 0 1 auto;
-    
 }
