@@ -1,38 +1,53 @@
 /*Portfolio*/
 .p1:hover{
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
+    transition: transform .20s;
+    margin: 0 auto;
+    transition-duration: 3s;
 }
+
 .p2:hover{
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 2s;
+    margin: 0 auto;
 }
+
 .p3:hover{
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 1s;
+    margin: 0 auto;
 }
 .p4:hover{
     -webkit-transform: rotateZ(-30deg);
     -ms-transform: rotateZ(-30deg);
     transform: rotateZ(-30deg);
+    transition: transform .29s;
 }
 .p5:hover{
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 2s;
+    margin: 0 auto;
 }
 .p6:hover{
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 3s;
+    margin: 0 auto;
 }
 .aboutpic:hover{
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
     transform: scale(1.1);
+    transition: transform .2s;
+    transition-duration: 2s;
+    margin: 0 auto;
+}
+.ServiceImg:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    margin: 0 auto;
+    transition-duration: 3s;
 }
 
 /*Footer*/
